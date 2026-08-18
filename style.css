@@ -1,9 +1,10 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background: rgb(248, 138, 47);
+    background: rgba(241, 112, 6, 0.925);
 }
 h1{
     font-size: 52px;
+    background: #ec730f;
 }
 ul{
     font-size: 23px;

@@ -1,0 +1,27 @@
+body{
+    background: #ca8a13ee;
+    font-family: sans-serif;
+}
+div{
+    background: #c08311ee;
+    font-size: 18px;
+}
+
+.home{
+    display: inline;
+    margin: 43px;
+    
+}
+.title{
+    text-align: center;
+    background: #db920980;
+}
+
+p{
+    display: block;
+    margin: 22px;
+}
+img{
+    margin: 0px 470px;
+} 
+
